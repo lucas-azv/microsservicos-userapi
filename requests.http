@@ -1,0 +1,4 @@
+### GET request to user endpoint
+GET http://localhost:8080/user
+
+###
